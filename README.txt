@@ -1,5 +1,2 @@
-Muuta:
-
-Pelaa peliä vain GUI:n kautta (peli sisältää kuvia).
-
-En jostain syystä voinut muuttaa directoryn nimeä, joten vaihdoin vain moduulin nimen.
+Hi,
+this txt game was a project that I during my course program 1.
