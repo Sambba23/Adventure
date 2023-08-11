@@ -1,0 +1,24 @@
+Walkthrough:
+
+Open GUI
+
+1. go secondfloor
+2. drink
+3. go store
+4. get tools
+5. go secondfloor
+6. drink
+7. go elevator
+8. use tools
+9. go sixthfloor
+10. get camera
+11. drink
+12. use camera
+13. go hallway
+14. drink
+15. fight
+16. use camera
+17. go metro
+18. go security
+19. use camera
+20. go alko
